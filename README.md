@@ -1,6 +1,6 @@
 # VRoid to Unreal Engine Blender Scripts
 ![alt text](ReadmeResources/repologo.png)
- Unreal Engine is awesome, no debates there, but you want to make your VRoid models **Unreal** without much hassle?
+ Unreal Engine is awesome, no debates there, but do you want to make your VRoid models **Unreal** without much hassle?
  Then these scripts are for you, making your VRoid model Unreal ready!
 
  Execute the scripts on your VRoid models you imported to Blender, and you're steps closer to make your character **Unreal!**
@@ -18,6 +18,10 @@
  * **VRM_DeleteLeafBones** : By default, VRM Importer includes leaf bones automatically.
    It's cool and stuff, but it's not necessary for Blender, and will spew out scary long warning when imported to UE4.
    Use this script to obliterate those leaf bones in one click.
+
+# What version of Blender do I need?
+ The scripts are written and tested with Blender 2.91, therefore Blender version 2.8 or above
+ should work. No guarantees for 2.79 or below, though.
 
 # Why are you making the scripts open?
  To share the knowledge and help others, that's why.
